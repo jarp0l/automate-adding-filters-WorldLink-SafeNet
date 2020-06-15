@@ -7,7 +7,7 @@ WorldLink-SafeNet Supplement | An automated tool in Python to whitelist/blacklis
 Ever wanted to block/blacklist (or whitelist) a large number of sites using WorldLink's 'White List/Black List' feature under SafeNet? Well, now a large number of sites providing advertisement services (for e.g. ads.google.com), sites with malwares, porn, etc. can be easily blocked on all your devices connected to your router, and that, too, in an automated way using the power of Python and Selenium! 
 
 
-There are a large number of 'hosts' files in the internet. You will have to trim unnecessary parts of such 'hosts' files yourself before mentioning path in the code. This program will automate adding the domains for you. All the domains that have been added to 'White List/ Black List' tab will be saved on a different file, which you will have to mention on the code before running it.
+There are a large number of 'hosts' files in the internet. You will have to trim unnecessary parts of such 'hosts' files yourself before mentioning path in the code. This program will automate adding the domains for you. All the domains that have been added to 'White List/ Black List' tab will be saved on a different file, which you will have to mention on the code before running it. You can see a text file sampleBlocklist.txt in my repo to get the idea of what I mean by 'trim'. That is only a portion of the 'hosts' file which can be found at: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts. I made that truncated/trimmed list just to test with the program, and yes, for sample as well.
 
 *(You don't ever need to worry about me obtaining your any kind of data, because everything will happen on your side. I will not even know if you are viewing anything on my repo! :D)
 
