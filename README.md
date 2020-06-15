@@ -22,4 +22,4 @@ I've used Selenium module, geckodriver (for using with firefox) and PyAutoGUI mo
 
 **PLEASE NOTE that I cannot guarantee about anything, and neither liable if you misued it or it caused any problem to - be it your WorldLink account or your computer system by its use.
 
-*I recently discovered that you are allowed to add only about 119 domains to the list, hence you will need to be sure which ones to add.
+*I recently discovered that the number of allowed domains to add to the list is only about 119, hence you will need to be sure which ones to add.
