@@ -1,4 +1,4 @@
-# automate-adding-flters-WorldLink-SafeNet
+# automate-adding-filters-WorldLink-SafeNet
 Automate adding a large number of domains to SafeNet filter.
 
 ------------------------------------------------------------
